@@ -48,7 +48,10 @@ Usage:
 ```bash
 bash haplotypecaller.sh <reference_genome> <input_dir> <output_dir> <tmp_dir> <num_runs>
 ```
+
 ## Usage
+- install fastp, bwa and gatk4
+  
 - Clone this repository to your local machine.
 
 - Ensure you have the necessary dependencies installed (e.g., fastp, BWA, GATK).
